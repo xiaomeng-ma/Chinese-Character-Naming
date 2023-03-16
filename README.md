@@ -1,12 +1,12 @@
 # Chinese-Character-Naming
 
-Hi! This is the companion repository for: **Xiaomeng Ma** and **Lingyu Gao**. Evaluating Transformer Models and Human Behaviors on Chinese Character Naming *TACL*.
+Hi! This is the companion repository for: **Xiaomeng Ma** and **Lingyu Gao**. Evaluating Transformer Models and Human Behaviors on Chinese Character Naming. To Appear at *TACL*.
 
 If you have any questions and comments, feel free to reach out to Xiaomeng Ma: xm2158@tc.columbia.edu.
 
 # Human answers
 
-The human_answer.csv listed the answers of 55 participants for the 60 characters. 
+The [human_answer.csv](https://github.com/xiaomeng-ma/Chinese-Character-Naming/blob/main/human_answer.csv) listed the answers of 55 participants for the 60 characters. 
 
 # Experiment
 
